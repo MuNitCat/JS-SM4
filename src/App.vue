@@ -1,15 +1,11 @@
 <template>
   <div id="app">
-    <!-- <img src="./assets/logo.png" /> -->
-    <!-- <p>这里是vue</p> -->
-    <!-- <div class="box1"></div> -->
     <router-view />
   </div>
 </template>
 
 <script>
-// import { component } from 'vue/types/umd'
-// import Home from './views/home/home'
+
 export default {
   name: 'App'
 //   component: {
